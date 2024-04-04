@@ -21,8 +21,17 @@
 <h2>Functionality:</h2>
 <ul>
   <li>Displays a message or alerts if text1 matches or does not match the pattern.</li>
-  <li>Extracts all matches from text2 and displays them </li>
+  <li>Extracts all matches from text2 and displays them. </li>
   <li>Show error if pattern is incorrect or empty.</li>
+</ul>
+
+<h2>How to use it</h2>
+<ul>
+  <li>Download the Java Classes from src(default package is main)</li>
+  <li>Create your own Java Project</li>
+  <li>Add Files to Your Project.</li>
+  <li>Link Files (if necessary).</li>
+  <li>Build and run.</li>
 </ul>
 </body>
 </html>
